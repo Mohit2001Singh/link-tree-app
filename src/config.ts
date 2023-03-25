@@ -18,7 +18,7 @@ const config = {
       key: "official",
       label: "Official Website",
       iconUrl: Official,
-      redirectUrl: "https://spheron.network/",
+      redirectUrl: "https://iiitk.ac.in/",
     },
     {
       key: "twitter",
